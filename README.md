@@ -9,11 +9,11 @@
 
 
 # **Table of Content**
- # | Title 
----|-------
- 1 | [Text Editors](textEditors) 
- 2 | [Tirmenal Command](cheat-sheet)
- 3 | [ Growth Mindset ](aboutMe) 
+|#|Title|
+|---|-------|
+|1|[Text Editors](textEditors)| 
+|2| [Tirmenal Command](cheat-sheet)|
+|3| [ Growth Mindset ](aboutMe)|
 
 <br>
 <br>
