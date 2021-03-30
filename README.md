@@ -14,6 +14,8 @@
 |1|[Text Editors](textEditors)| 
 |2| [Tirmenal Command](cheat-sheet)|
 |3| [ Growth Mindset ](aboutMe)|
+|4| [ Git Tutorial ](gitTutorial)|
+|5| [ Markdown ](markdown)|
 
 <br>
 <br>
