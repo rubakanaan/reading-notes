@@ -2,7 +2,7 @@
 
 ## What is javascript for?
 
-javaScript allows you to make web pages more interactive by accesing and modifiying content and markup used in a web page while it being viewed in the browser.
+javaScript allows you to make web pages more interactive by accessing and modifying content and markup used in a web page while it being viewed in the browser.
 
 1. Access Content:
      * you can use JS to select any element, attribute and text in HTML page.
@@ -11,7 +11,7 @@ javaScript allows you to make web pages more interactive by accesing and modifiy
 3.  Program rules:
     * you can specify set of steps to the browser.
 4. React to event:
-    * you can specify that ascript should run when a specific event has occurd.
+    * you can specify that a script should run when a specific event has occured.
 
 <br>
 
@@ -41,7 +41,7 @@ state your goal and then list the
 tasks that need to be completed in
 order to achieve it.
 3. Designing a script :
-    * once you know the goal, you can work out the indiviusal tasks needed to achive it.
+    * once you know the goal, you can work out the individual tasks needed to acheive it.
 
 <br>
 <br>
@@ -52,7 +52,7 @@ order to achieve it.
 2. the name can contain letter, number, dollar sign or underscore. it can not start with dash or period.
 3. you cant use **key word** or **reserved word**.
 4. all variables are case sensitive.
-5. use a meaningfull name.
+5. use a meaningful name.
 6. if the variable name is made up of more word, use capital letter for the first letter of every word.
 
 <br>
