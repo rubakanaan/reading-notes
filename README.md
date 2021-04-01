@@ -17,6 +17,7 @@
 |4| [ Git Tutorial ](gitTutorial)|
 |5| [ Markdown ](markdown)|
 |6| [ Create Site ](createSite)|
+|7| [ JAVASCRIPT ](aboutJS)|
 <br>
 <br>
 
