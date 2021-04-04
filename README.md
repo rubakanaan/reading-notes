@@ -18,6 +18,7 @@
 |5| [ Markdown ](markdown)|
 |6| [ Create Site ](createSite)|
 |7| [ JAVASCRIPT ](aboutJS)|
+|8| [ LOOPS ](loops)|
 <br>
 <br>
 
