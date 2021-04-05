@@ -59,5 +59,4 @@ CSS3 has also introduced
 another way to specify colors
 called HSLA.
 
-* ![color](https://i.pinimg.com/236x/5a/ec/c4/5aecc401a6e826124eb83ad255630a97--combination-colors-color-combinations.jpg) ![color2](https://i.pinimg.com/236x/a7/05/11/a70511f28ded5a9a9686b6746e8ccf43--rgb-color-codes-web-colors.jpg) ![color3](https://i.pinimg.com/236x/3c/20/9a/3c209afaf2dec8fffe51094b3dfb6be3--rgb-color-palette-color-palettes.jpg)
-
+* ![color](https://i.pinimg.com/236x/5a/ec/c4/5aecc401a6e826124eb83ad255630a97--combination-colors-color-combinations.jpg) ![color2](https://i.pinimg.com/236x/a7/05/11/a70511f28ded5a9a9686b6746e8ccf43--rgb-color-codes-web-colors.jpg) 
