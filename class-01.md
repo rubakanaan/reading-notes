@@ -101,3 +101,26 @@ and how much space it might require.**
 ![WIREFRAME](https://www.edrawsoft.com/templates/images/web-site-design.png)
 
 
+## JAVA SCRIPT 
+
+### What is javascript for?
+
+javaScript allows you to make web pages more interactive by accessing and modifying content and markup used in a web page while it being viewed in the browser.
+
+1. Access Content:
+     * you can use JS to select any element, attribute and text in HTML page.
+2. Modify content:
+    * you can use JS to add or remove any element, attribute and text in HTML page.
+3.  Program rules:
+    * you can specify set of steps to the browser.
+4. React to event:
+    * you can specify that a script should run when a specific event has occured.
+
+### EXAMPLE :
+
+1. Forms :
+    * ![js](https://www.formget.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2014/07/form-submit-using-javascript.png.webp)
+2. Arrays : 
+    * ![array](https://www.javascripttutorial.net/wp-content/uploads/2020/09/JavaScript-Array.png)
+3. Functions :
+    * ![func](https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1587882057-1.png)
