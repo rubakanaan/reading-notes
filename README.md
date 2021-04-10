@@ -2,7 +2,7 @@
 
 
 ## *WELCOME !* 
-## **This page is about summarizing some topics you may need during this cource**
+## **This page is about summarizing some topics you may need during this cource.**
 
 <br>
 <br>
