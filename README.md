@@ -36,7 +36,7 @@
 |#|Title|
 |---|-------|
 |1| [INTRODUCTION](class-02)|
-|2||
+|2| [MORE ABOUT HTML](html.md)|
 |3||
 |4||
 |5||
