@@ -10,8 +10,9 @@
 
 
 ## **Table of Contents**
-#|Title
+
 -|-----
+#|Title
 1|[Text Editors](textEditors)
 2| [Tirmenal Command](cheat-sheet)
 3| [ Growth Mindset ](aboutMe)
@@ -33,8 +34,9 @@
 ## **Here is some topic you may  need during 201 Class.**
 
 ## **Table of Contents**
-#|Title
+
 -|------
+#|Title
 1| [INTRODUCTION](class-02)
 2| [MORE ABOUT HTML](html.md)
 3|[LINKS AND LAYOUT](links.md)
