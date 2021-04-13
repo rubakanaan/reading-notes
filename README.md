@@ -37,7 +37,7 @@
 |---|-------|
 |1| [INTRODUCTION](class-02)|
 |2| [MORE ABOUT HTML](html.md)|
-|3||
+|3|[LINKS AND LAYOUT](links.md)|
 |4||
 |5||
 |6||
@@ -52,6 +52,10 @@
 |15||
 
 
+x|x
+---|--
+aaa|aaa
+bbb|bbb
 
 
 ![programming](https://media.istockphoto.com/vectors/group-programing-develop-web-and-application-on-cloud-net-work-vector-id524719579?b=1&k=6&m=524719579&s=612x612&w=0&h=fQEGaXtUrc_R6X5TbOeIJxgNJ8JEF_Od410_BjbKCxU=)
