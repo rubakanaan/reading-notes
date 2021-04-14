@@ -40,7 +40,7 @@
 1| [INTRODUCTION](class-02)
 2| [MORE ABOUT HTML](html.md)
 3|[LINKS AND LAYOUT](links.md)
-4|
+4|[IMAGES & COLORS & TEXT](imageAndText)
 5|
 6|
 7|
