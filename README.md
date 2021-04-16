@@ -41,7 +41,7 @@
 2| [MORE ABOUT HTML](html.md)
 3|[LINKS AND LAYOUT](links.md)
 4|[IMAGES & COLORS & TEXT](imageAndText)
-5|
+5|[OBJECTS](objects.md)
 6|
 7|
 8|
