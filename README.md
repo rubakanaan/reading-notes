@@ -42,7 +42,7 @@
 3|[LINKS AND LAYOUT](links.md)
 4|[IMAGES & COLORS & TEXT](imageAndText)
 5|[OBJECTS](objects.md)
-6|
+6|[TABLES & MORE ABOUT OBJECTS](tables.md)
 7|
 8|
 9|
