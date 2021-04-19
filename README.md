@@ -43,7 +43,7 @@
 4|[IMAGES & COLORS & TEXT](imageAndText)
 5|[OBJECTS](objects.md)
 6|[TABLES & MORE ABOUT OBJECTS](tables.md)
-7|
+7|[LAYOUT](layout.md)
 8|
 9|
 10|
