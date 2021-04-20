@@ -74,3 +74,28 @@ the background color of the
 alternating table rows
 * :hover : to highlight a table row
 when a user's mouse goes over it
+
+
+# EVENTS
+*W hen you browse the web, your browser registers different
+types of events. It's the browser's way of saying, "Hey, this
+just happened." Your script can then respond to these events.
+Scripts often respond to these events by updating the content of the web page (via the
+Document Object Model) which makes the page feel more interactive. In this chapter, you
+will learn how:*
+
+* INTERACTIONS CREATE EVENTS
+* EVENTS TRIGGER CODE
+* CODE TO RESPONDS USERS 
+
+
+## DIFFERENT EVENT TYPES:
+
+Event|	Description
+-----|----------------
+onchange | An HTML element has been changed
+onclick	The| user clicks an HTML element
+onmouseover	|The user moves the mouse over an HTML element
+onmouseout	|The user moves the mouse away from an HTML element
+onkeydown	|The user pushes a keyboard key
+onload	|The browser has finished loading the page
