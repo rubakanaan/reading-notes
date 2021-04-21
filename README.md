@@ -45,7 +45,7 @@
 6|[TABLES & MORE ABOUT OBJECTS](tables.md)
 7|[LAYOUT](layout.md)
 8|[FORMS & LISTS & TABLE](FLE.md)
-9|
+9|[ERROR HANDLING](debugging.md)
 10|
 11|
 12|
