@@ -48,7 +48,7 @@ At that point, the interpreter stops and looks for exception-handl ing code.*
     (rather than not informing them
     why the site stopped working). 
 3. FINALLY:
-    The contents of the fi na 11 y
+    * The contents of the fi na 11 y
     code block will run either
     way - whether the try block
     succeeded or failed.
