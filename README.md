@@ -46,7 +46,7 @@
 7|[LAYOUT](layout.md)
 8|[FORMS & LISTS & TABLE](FLE.md)
 9|[ERROR HANDLING](debugging.md)
-10|
+10|[IMAGE & PRACTICAL INFFORMATION](image.md)
 11|
 12|
 13|
