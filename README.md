@@ -47,7 +47,7 @@
 8|[FORMS & LISTS & TABLE](FLE.md)
 9|[ERROR HANDLING](debugging.md)
 10|[IMAGE & PRACTICAL INFFORMATION](image.md)
-11|
+11|[CHART](chart.md)
 12|
 13|
 14|
