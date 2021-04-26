@@ -48,7 +48,7 @@
 9|[ERROR HANDLING](debugging.md)
 10|[IMAGE & PRACTICAL INFFORMATION](image.md)
 11|[CHART](chart.md)
-12|
+12|[HTML STORAGE](p.md)
 13|
 14|
 15|
