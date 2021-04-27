@@ -49,8 +49,8 @@
 10|[IMAGE & PRACTICAL INFFORMATION](image.md)
 11|[CHART](chart.md)
 12|[HTML STORAGE](p.md)
-13|
-14|
+13|[TRANSFORMS AND TRANSITIONS](transform.md)
+14|[BUILD THE PERFECT TEAM](team.md)
 15|
 
 
