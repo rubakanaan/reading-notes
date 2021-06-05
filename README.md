@@ -66,7 +66,7 @@
 
 -|------
 #|Title
-1| 
+1| [COMPONENT AND REACT](react.md)
 2| 
 3|
 4|
@@ -113,6 +113,7 @@
 
 <br>
 
+## Things I want to know more about
 
 ![programming](https://media.istockphoto.com/vectors/group-programing-develop-web-and-application-on-cloud-net-work-vector-id524719579?b=1&k=6&m=524719579&s=612x612&w=0&h=fQEGaXtUrc_R6X5TbOeIJxgNJ8JEF_Od410_BjbKCxU=)
 
