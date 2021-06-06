@@ -67,7 +67,7 @@
 -|------
 #|Title
 1| [COMPONENT AND REACT](react.md)
-2| 
+2| [STATE AND PROPS](state.md)
 3|
 4|
 5|
