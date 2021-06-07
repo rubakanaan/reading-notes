@@ -68,7 +68,7 @@
 #|Title
 1| [COMPONENT AND REACT](react.md)
 2| [STATE AND PROPS](state.md)
-3|
+3| [PASSING FUNCTIONS](lists.md)
 4|
 5|
 6|
