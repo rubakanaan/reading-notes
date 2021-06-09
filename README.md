@@ -70,7 +70,7 @@
 2| [STATE AND PROPS](state.md)
 3| [PASSING FUNCTIONS](lists.md)
 4|[ FORM IN REACT](rform.md)
-5|
+5|[Putting It All Together](all.md)
 6|
 7|
 8|
