@@ -72,7 +72,7 @@
 4|[ FORM IN REACT](rform.md)
 5|[Putting It All Together](all.md)
 6|[NODE.JS](node.md)
-7|
+7|[REST](rest.md)
 8|
 9|
 10|
