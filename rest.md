@@ -30,4 +30,5 @@ The way the web was designed was not for all machines to talk to all other machi
 ## What is the HTTP protocol that Fielding and his friends created?
 HTTP = Hypertext Transfer Protocol. This protocol follows a request-response protocol A web browser makes a request and 'gets' the data from the server
 <br>
+
 **GET** what the browser's main action verb is. It gets information. A machine gets machine-readable info and the browser gets the human readable info. **POST** a system adding something to another system **PATCH** a system doing a partial update of another **PUT** a system replacing something in another system
