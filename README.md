@@ -74,7 +74,7 @@
 6|[NODE.JS](node.md)
 7|[REST](rest.md)
 8|[API](api.md)
-9|
+9|[FUNCTIONAL PROGRAMMING](functional.md)
 10|
 11|
 12|
