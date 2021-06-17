@@ -76,7 +76,7 @@
 8|[API](api.md)
 9|[FUNCTIONAL PROGRAMMING](functional.md)
 10|[MEMORY STORAGE](memory.md)
-11|
+11|[Authentication](auth.md)
 12|
 13|
 14|
