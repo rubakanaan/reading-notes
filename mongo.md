@@ -1,13 +1,14 @@
 # Mongo and Mongoose
 
 nosql vs sql
-SQL |	NoSQL
-----|--------
+
+SQL|NoSQL
+----|--------------------------------
 relational databases|non-relational databases
-table-based	| document based, key-value pairs, graph, or wide-column
-small data sets, not good for hierarchical storage |	can handle large data sets, and good for hierarchical storage
-good for complex queries |	not good for complex queries
-vertically scalable (can increase load by increasing variables such as CPU and RAM)	|horizontally scalable (add more servers for handling more traffic)
+table-based|document based, key-value pairs, graph, or wide-column
+small data sets, not good for hierarchical storage |can handle large data sets, and good for hierarchical storage
+good for complex queries |not good for complex queries
+vertically scalable (can increase load by increasing variables such as CPU and RAM)|horizontally scalable (add more servers for handling more traffic)
 
 **Database best for hierarchical storage**: NoSQL
 
