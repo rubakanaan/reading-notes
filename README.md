@@ -78,7 +78,7 @@
 10|[MEMORY STORAGE](memory.md)
 11|[Authentication](auth.md)
 12|[ Mongo and Mongoose](mongo.md)
-13|
+13|[CRUD](crud.md)
 14|
 15|
 
