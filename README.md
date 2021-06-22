@@ -79,7 +79,7 @@
 11|[Authentication](auth.md)
 12|[ Mongo and Mongoose](mongo.md)
 13|[CRUD](crud.md)
-14|
+14|[Diversity & Inclusion in the Tech Industry](tech.md)
 15|
 
 <br>
