@@ -2,17 +2,17 @@
 
 
 ## *WELCOME !* 
-# Code 102 Reading Notes
-## **Here is some topics you may need during 102 Class.**
+## Code 102 Reading Notes
+### **Here is some topics you may need during 102 Class.**
 
 <br>
 <br>
 
 
-## **Table of Contents**
+ **Table of Contents**
 
--|-----
 #|Title
+-|-----
 1|[Text Editors](textEditors)
 2| [Tirmenal Command](cheat-sheet)
 3| [ Growth Mindset ](aboutMe)
@@ -30,13 +30,16 @@
 
 
 
-# Code 201 Reading Notes
-## **Here is some topic you may  need during 201 Class.**
+## Code 201 Reading Notes
+### **Here is some topic you may  need during 201 Class.**
 
-## **Table of Contents**
+<br>
+<br>
 
--|------
+ **Table of Contents**
+
 #|Title
+-|------
 1| [INTRODUCTION](class-02)
 2| [MORE ABOUT HTML](html.md)
 3|[LINKS AND LAYOUT](links.md)
@@ -59,13 +62,16 @@
 <br>
 
 
-# Code 301 - Intermediate Software Development
-## **Here is some topic you may  need during 301 class.**
+## Code 301 - Intermediate Software Development
+### **Here is some topic you may  need during 301 class.**
 
-## **Table of Contents**
+ **Table of Contents**
 
--|------
+<br>
+<br>
+
 #|Title
+-|------
 1| [COMPONENT AND REACT](react.md)
 2| [STATE AND PROPS](state.md)
 3| [PASSING FUNCTIONS](lists.md)
@@ -86,13 +92,14 @@
 
 <br>
 
-# Code 401 - Advanced Software Development
-## **Here is some topic you may  need during 401 class.**
+## Code 401 - Advanced Software Development
 
-## **Table of Contents**
+### **Here is some topic you may  need during 401 class.**
 
--|------
+ **Table of Contents**
+
 #|Title
+-|------
 1| [STARTING](starting.md) 
 2| [Testing and Modules](testing.md)
 3|
