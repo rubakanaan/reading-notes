@@ -102,7 +102,7 @@
 -|------
 1| [STARTING](starting.md) 
 2| [Testing and Modules](testing.md)
-3|
+3| [ FileIO & Exceptions](files.md)
 4|
 5|
 6|
