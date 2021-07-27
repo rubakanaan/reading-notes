@@ -103,8 +103,8 @@
 1| [STARTING](starting.md) 
 2| [Testing and Modules](testing.md)
 3| [ FileIO & Exceptions](files.md)
-4| [Linked List](linkedlist.md)
-5|
+4| [Topics](topic.md)
+5| [Linked List](linkedlist.md)
 6|
 7|
 8|
