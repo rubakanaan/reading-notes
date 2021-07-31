@@ -105,7 +105,7 @@
 3| [ FileIO & Exceptions](files.md)
 4| [Topics](topic.md)
 5| [Linked List](linkedlist.md)
-6|
+6|[Game of Greed](gameofgreed.md)
 7|
 8|
 9|
