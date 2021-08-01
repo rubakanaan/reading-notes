@@ -106,7 +106,7 @@
 4| [Topics](topic.md)
 5| [Linked List](linkedlist.md)
 6|[Game of Greed](gameofgreed.md)
-7|
+7| [Game of Greed 2](gameofgreed2.md)
 8|
 9|
 10|
