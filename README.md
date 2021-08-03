@@ -108,7 +108,7 @@
 6|[Game of Greed](gameofgreed.md)
 7|[Game of Greed 2](gameofgreed2.md)
 8|[Game of Greed 3](gameofgreed3.md)
-9|
+9| [Game of Greed 4](gameofgreed4.md)
 10|
 11|
 12|
