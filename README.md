@@ -111,8 +111,8 @@
 9| [Game of Greed 4](gameofgreed4.md)
 10|[Stack & Queue](stack-queue.md)
 11|[Data Analysis](data_analysis.md)
-12|
-13|
+12|[Pandas](pandas.md)
+13|[Linear Regressions](lg.md)
 14|
 15|
 
