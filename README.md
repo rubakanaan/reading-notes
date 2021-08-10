@@ -113,7 +113,7 @@
 11|[Data Analysis](data_analysis.md)
 12|[Pandas](pandas.md)
 13|[Linear Regressions](lg.md)
-14|
+14|[Tree](tree.md)
 15|
 
 <br>
