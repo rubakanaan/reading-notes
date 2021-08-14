@@ -115,6 +115,7 @@
 13|[Linear Regressions](lg.md)
 14| [Data Visualization](matplot.md)
 15|[Tree](tree.md)
+16|[Machine Learning Intro](ml.md)
 
 <br>
 
