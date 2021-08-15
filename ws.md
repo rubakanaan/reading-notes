@@ -48,5 +48,4 @@
 
     * **time.sleep(1)**
 
-* Now that we understand how to download a file, let’s try downloading the entire set of data files with a for loop
 
