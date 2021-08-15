@@ -116,6 +116,7 @@
 14| [Data Visualization](matplot.md)
 15|[Tree](tree.md)
 16|[Machine Learning Intro](ml.md)
+17| [Web Scraping](ws.md)
 
 <br>
 
