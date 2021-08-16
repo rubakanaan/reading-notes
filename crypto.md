@@ -22,7 +22,7 @@ the most common hashing algorithms are MD5 and SHA-1, however due to these algor
 
 <br>
 
-**Symmetric Cryptography **: Symmetric Cryptography, likely the most traditional form of cryptography, is also the system with which you are probably most familiar. This type of cryptography uses a single key to encrypt a message and then decrypt that message upon delivery.
+**Symmetric Cryptography** : Symmetric Cryptography, likely the most traditional form of cryptography, is also the system with which you are probably most familiar. This type of cryptography uses a single key to encrypt a message and then decrypt that message upon delivery.
 
 <br>
 

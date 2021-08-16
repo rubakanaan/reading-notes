@@ -117,6 +117,7 @@
 15|[Tree](tree.md)
 16|[Machine Learning Intro](ml.md)
 17| [Web Scraping](ws.md)
+18| [Cryptography](crypto.md)
 
 <br>
 
