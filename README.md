@@ -118,6 +118,7 @@
 16|[Machine Learning Intro](ml.md)
 17| [Web Scraping](ws.md)
 18| [Cryptography](crypto.md)
+19|[Automation](automation.md)
 
 <br>
 
