@@ -119,6 +119,7 @@
 17| [Web Scraping](ws.md)
 18| [Cryptography](crypto.md)
 19|[Automation](automation.md)
+20|[Django](django.md)
 
 <br>
 
