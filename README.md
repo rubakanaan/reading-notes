@@ -121,6 +121,7 @@
 19|[Automation](automation.md)
 20|[Django](django.md)
 21|[Django Model](djmodel.md)
+22|[Django CRUD and Forms](djform.md)
 
 <br>
 
