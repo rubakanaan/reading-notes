@@ -122,6 +122,7 @@
 20|[Django](django.md)
 21|[Django Model](djmodel.md)
 22|[Django CRUD and Forms](djform.md)
+23|[Django Custom User](djuser.md)
 
 <br>
 
