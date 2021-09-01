@@ -123,6 +123,7 @@
 21|[Django Model](djmodel.md)
 22|[Django CRUD and Forms](djform.md)
 23|[Django Custom User](djuser.md)
+24|[Hash Tables](hash.md)
 
 <br>
 
