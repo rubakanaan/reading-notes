@@ -124,6 +124,7 @@
 22|[Django CRUD and Forms](djform.md)
 23|[Django Custom User](djuser.md)
 24|[Hash Tables](hash.md)
+25| [Django REST Framework & Docker](docker.md)
 
 <br>
 
