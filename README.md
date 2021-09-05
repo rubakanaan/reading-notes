@@ -125,6 +125,7 @@
 23|[Django Custom User](djuser.md)
 24|[Hash Tables](hash.md)
 25| [Django REST Framework & Docker](docker.md)
+26|[Permissions & Postgresql](drf.md)
 
 <br>
 
