@@ -127,7 +127,8 @@
 25| [Django REST Framework & Docker](docker.md)
 26|[Permissions & Postgresql](drf.md)
 27|[Authentication & Production Server](jsontoken.md)
-28|[API Deployment ](djangosetting.md)
+28|[API Deployment](djangosetting.md)
+
 <br>
 
 <br>
