@@ -131,6 +131,7 @@
 27|[Authentication & Production Server](jsontoken.md)
 28|[API Deployment](djangosetting.md)
 29|[Graphs](graph.md)
+30|[DSA Review](dsa.md)
 
 <br>
 
