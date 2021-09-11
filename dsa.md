@@ -6,7 +6,7 @@ Whiteboard-style interviews are ubiquitous in the tech industry. For those who n
 
 *  Restate the Question
 
-  Do you understand what they’re asking you to do? Prove it. Restate the question for them and seek affirmation. You might actually be surprised to find you don’t fully understand what they’re asking for — perhaps the question is similar, but not the same, as a practice problem you have completed in the past.
+   Do you understand what they’re asking you to do? Prove it. Restate the question for them and seek affirmation. You might actually be surprised to find you don’t fully understand what they’re asking for — perhaps the question is similar, but not the same, as a practice problem you have completed in the past.
 
 * Ask About Edge Cases
 
