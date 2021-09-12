@@ -132,6 +132,7 @@
 28|[API Deployment](djangosetting.md)
 29|[Graphs](graph.md)
 30|[DSA Review](dsa.md)
+31|[React - 1](react-2.md)
 
 <br>
 
