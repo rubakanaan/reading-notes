@@ -76,3 +76,12 @@ class NameForm extends React.Component {
   }
 }
 ```
+## Lifting state
+When several components need to reflect the same changed data you will need to lift state, sharing state is accomplished by moving it up to the closest common ancestor of the components that need it. This is called “lifting state up”.
+
+## Thinking in React
+1. Break The UI Into A Component Hierarchy
+2. Build A Static Version in React
+3. Identify The Minimal (but complete) Representation Of UI State
+4. Identify Where Your State Should Live
+5. Add Inverse Data Flow
