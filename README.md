@@ -133,6 +133,7 @@
 29|[Graphs](graph.md)
 30|[DSA Review](dsa.md)
 31|[React - 1](react-2.md)
+32|[React - 2](react-3.md)
 
 <br>
 
