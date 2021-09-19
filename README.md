@@ -136,6 +136,7 @@
 32|[React - 2](react-3.md)
 33|[React - 3](react-4.md)
 34|[React - 4](next.md)
+35|[Pythonisms](py.md)
 
 <br>
 
